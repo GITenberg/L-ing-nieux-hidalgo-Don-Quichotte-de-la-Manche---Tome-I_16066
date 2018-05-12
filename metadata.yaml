@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16066#L-ing-nieux-hidalgo-Don-Quichotte-de-la-Manche---Tome-I
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - FR Littérature
