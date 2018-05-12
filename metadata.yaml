@@ -1,0 +1,48 @@
+_repo: L-ing-nieux-hidalgo-Don-Quichotte-de-la-Manche---Tome-I_16066
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Viardot, Louis
+    alias: Viardo
+    birthdate: 1800
+    deathdate: 1883
+    gutenberg_agent_id: '5976'
+    url: http://www.gutenberg.org/2009/agents/5976
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Michel
+    - De Cervantes Saavedra, Miguel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- FR Littérature
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16066'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picaresque literature'
+- !lcsh 'Romances'
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+title: L'ingénieux hidalgo Don Quichotte de la Manche - Tome I
+url: http://www.gutenberg.org/ebooks/16066
